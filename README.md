@@ -56,9 +56,9 @@ Este bloque configura la máquina virtual para que use 1024 MB de memoria RAM. E
 
 A continuación, se presentan imágenes que muestran el servidor Apache corriendo correctamente en la máquina virtual configurada.
 
-![Evidencia de Apache Corriendo 1](APACHE.jpg)
-![Evidencia de Apache Corriendo 2](IMAGERUNNING.jpg)
-![Evidencia de Apache Corriendo 2](IMAGERUNNING2.jpg)
+![Evidencia de Apache Corriendo 1](./img/APACHE.jpg)
+![Evidencia de Apache Corriendo 2](./img/IMAGERUNNING.jpg)
+![Evidencia de Apache Corriendo 2](./img/IMAGERUNNING2.jpg)
 
 
 
